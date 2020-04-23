@@ -22,8 +22,7 @@
         "y": 120,
         "wires": [
             [
-                "f84f01fe.15f",
-                "bf4cfc1e.1f522"
+                "f84f01fe.15f"
             ]
         ]
     },
@@ -39,16 +38,6 @@
         "complete": "false",
         "x": 480,
         "y": 120,
-        "wires": []
-    },
-    {
-        "id": "bf4cfc1e.1f522",
-        "type": "link out",
-        "z": "4a72f07d.73d5a",
-        "name": "",
-        "links": [],
-        "x": 340,
-        "y": 220,
         "wires": []
     }
 ]
